@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Sin categoría | Boutiquesisulopez eCommerce</title>
+	<atom:link href="https://github.com/conquer78/boutiquesisulopez.git/categoria-producto/sin-categoria/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.com/conquer78/boutiquesisulopez.git</link>
+	<description>eCommerce de Artículos para Mejorar y Cuidar su Hogar</description>
+	<lastBuildDate>Sat, 19 Feb 2022 14:43:36 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>Funda de Sofa de 3 cuerpos</title>
+		<link>https://github.com/conquer78/boutiquesisulopez.git/producto/funda-de-sofa-de-3-cuerpos/</link>
+					<comments>https://github.com/conquer78/boutiquesisulopez.git/producto/funda-de-sofa-de-3-cuerpos/#respond</comments>
+		
+		<dc:creator><![CDATA[Boutiquesisulopez]]></dc:creator>
+		<pubDate>Sat, 19 Feb 2022 00:56:07 +0000</pubDate>
+				<guid isPermaLink="false">https://github.com/conquer78/boutiquesisulopez.git/?post_type=product&#038;p=40</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="et_pb_section et_pb_section_0 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_wc_breadcrumb et_pb_wc_breadcrumb_0 et_pb_bg_layout_  et_pb_text_align_left">
+				
+				
+				
+				
+				<div class="et_pb_module_inner">
+					<nav class="woocommerce-breadcrumb"><a href="https://github.com/conquer78/boutiquesisulopez.git">Home</a>  /  Sin categoría</nav>
+				</div>
+			</div>
+			</div>
+				
+				
+			</div><div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_wc_images et_pb_wc_images_0 et_pb_bg_layout_">
+				
+				
+				
+				
+				<div class="et_pb_module_inner">
+					
+	<span class="onsale">¡Oferta!</span>
+	<div class="woocommerce-product-gallery woocommerce-product-gallery--without-images woocommerce-product-gallery--columns-4 images" data-columns="4" style="opacity: 0; transition: opacity .25s ease-in-out;">
+	<figure class="woocommerce-product-gallery__wrapper">
+		<div class="woocommerce-product-gallery__image--placeholder"><img src="https://github.com/conquer78/boutiquesisulopez.git/wp-content/uploads/woocommerce-placeholder-600x600.png" alt="Esperando la imagen de producto" class="wp-post-image" /></div>	</figure>
+</div>
+
+				</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_wc_title et_pb_wc_title_0 et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_module_inner">
+					
+		<h1>Funda de Sofa de 3 cuerpos</h1>
+				</div>
+			</div><div class="et_pb_module et_pb_wc_price et_pb_wc_price_0">
+				
+				
+				
+				
+				<div class="et_pb_module_inner">
+					<p class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>29.990</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>25.990</bdi></span></ins></p>
+
+				</div>
+			</div><div class="et_pb_module et_pb_wc_add_to_cart et_pb_wc_add_to_cart_0 et_pb_fields_label_position_default et_pb_bg_layout_  et_pb_text_align_left">
+				
+				
+				
+				
+				<div class="et_pb_module_inner">
+					
+	
+	<form class="cart" action="https://github.com/conquer78/boutiquesisulopez.git/producto/funda-de-sofa-de-3-cuerpos/" method="post" enctype='multipart/form-data'>
+		
+			<div class="quantity">
+				<label class="screen-reader-text" for="quantity_623214cd0536e">Funda de Sofa de 3 cuerpos cantidad</label>
+		<input
+			type="number"
+			id="quantity_623214cd0536e"
+			class="input-text qty text"
+			step="1"
+			min="1"
+			max=""
+			name="quantity"
+			value="1"
+			title="Cantidad"
+			size="4"
+			placeholder=""
+			inputmode="numeric"
+			autocomplete="off"
+		/>
+			</div>
+	
+		<button type="submit" name="add-to-cart" value="40" class="single_add_to_cart_button button alt">Añadir al carrito</button>
+
+			</form>
+
+	
+
+				</div>
+			</div><div class="et_pb_module et_pb_wc_meta et_pb_wc_meta_0 et_pb_bg_layout_ et_pb_wc_meta_layout_inline">
+				
+				
+				
+				
+				<div class="et_pb_module_inner">
+					<div class="product_meta">
+
+	
+	
+	<span class="posted_in">Categoría: <a href="https://github.com/conquer78/boutiquesisulopez.git/categoria-producto/sin-categoria/" rel="tag">Sin categoría</a></span>
+	
+	
+</div>
+
+				</div>
+			</div>
+			</div>
+				
+				
+			</div><div class="et_pb_row et_pb_row_2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_wc_tabs et_pb_wc_tabs_0 et_pb_tabs " >
+				
+				
+				<ul class="et_pb_tabs_controls clearfix">
+					<li class="description_tab et_pb_tab_active"><a href="#tab-description">Descripción</a></li><li class="reviews_tab"><a href="#tab-reviews">Valoraciones (0)</a></li>
+				</ul>
+				<div class="et_pb_all_tabs">
+					<div class="et_pb_tab clearfix et_pb_active_content">
+					<div class="et_pb_tab_content">
+						<p>Funda de Sofa o Sillon de 3 cuerpos</p>
+
+					</div>
+				</div><div class="et_pb_tab clearfix">
+					<div class="et_pb_tab_content">
+						
+					</div>
+				</div>
+				</div>
+			</div>
+			</div>
+				
+				
+			</div>
+				
+				
+			</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/conquer78/boutiquesisulopez.git/producto/funda-de-sofa-de-3-cuerpos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
