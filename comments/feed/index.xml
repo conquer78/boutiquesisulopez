@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comentarios para Boutiquesisulopez eCommerce	</title>
-	<atom:link href="https://github.com/conquer78/boutiquesisulopez.git/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/conquer78/boutiquesisulopez.git</link>
+	<atom:link href="https://conquer78.github.io/boutiquesisulopez/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://conquer78.github.io/boutiquesisulopez</link>
 	<description>eCommerce de Artículos para Mejorar y Cuidar su Hogar</description>
 	<lastBuildDate>Sat, 11 Dec 2021 19:07:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,11 +23,11 @@
 	<item>
 		<title>
 		Comentario en ¡Hola mundo! por Un Comentarista de WordPress		</title>
-		<link>https://github.com/conquer78/boutiquesisulopez.git/2021/12/11/hola-mundo/#comment-1</link>
+		<link>https://conquer78.github.io/boutiquesisulopez/2021/12/11/hola-mundo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un Comentarista de WordPress]]></dc:creator>
 		<pubDate>Sat, 11 Dec 2021 19:07:27 +0000</pubDate>
-		<guid isPermaLink="false">https://github.com/conquer78/boutiquesisulopez.git/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://conquer78.github.io/boutiquesisulopez/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hola, este es un comentario.
 Para empezar con la moderación, edición y eliminación de comentarios, por favor visita la pantalla de comentarios en el panel inicial.

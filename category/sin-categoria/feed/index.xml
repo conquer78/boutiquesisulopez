@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Sin categoría | Boutiquesisulopez eCommerce</title>
-	<atom:link href="https://github.com/conquer78/boutiquesisulopez.git/category/sin-categoria/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/conquer78/boutiquesisulopez.git</link>
+	<atom:link href="https://conquer78.github.io/boutiquesisulopez/category/sin-categoria/feed/" rel="self" type="application/rss+xml" />
+	<link>https://conquer78.github.io/boutiquesisulopez</link>
 	<description>eCommerce de Artículos para Mejorar y Cuidar su Hogar</description>
 	<lastBuildDate>Sat, 11 Dec 2021 19:07:27 +0000</lastBuildDate>
 	<language>es-CL</language>
@@ -24,20 +24,20 @@
 	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>¡Hola mundo!</title>
-		<link>https://github.com/conquer78/boutiquesisulopez.git/2021/12/11/hola-mundo/</link>
-					<comments>https://github.com/conquer78/boutiquesisulopez.git/2021/12/11/hola-mundo/#comments</comments>
+		<link>https://conquer78.github.io/boutiquesisulopez/2021/12/11/hola-mundo/</link>
+					<comments>https://conquer78.github.io/boutiquesisulopez/2021/12/11/hola-mundo/#comments</comments>
 		
 		<dc:creator><![CDATA[Boutiquesisulopez]]></dc:creator>
 		<pubDate>Sat, 11 Dec 2021 19:07:27 +0000</pubDate>
 				<category><![CDATA[Sin categoría]]></category>
-		<guid isPermaLink="false">https://github.com/conquer78/boutiquesisulopez.git/?p=1</guid>
+		<guid isPermaLink="false">https://conquer78.github.io/boutiquesisulopez/?p=1</guid>
 
 					<description><![CDATA[Bienvenido(a) a WordPress. Esta es tu primera entrada. Edítala o bórrala ¡y comienza a publicar!]]></description>
 										<content:encoded><![CDATA[
 <p>Bienvenido(a) a WordPress. Esta es tu primera entrada. Edítala o bórrala ¡y comienza a publicar!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/conquer78/boutiquesisulopez.git/2021/12/11/hola-mundo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://conquer78.github.io/boutiquesisulopez/2021/12/11/hola-mundo/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

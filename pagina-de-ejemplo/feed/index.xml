@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comentarios en: Página Principal	</title>
-	<atom:link href="https://github.com/conquer78/boutiquesisulopez.git/pagina-de-ejemplo/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/conquer78/boutiquesisulopez.git</link>
+	<atom:link href="https://conquer78.github.io/boutiquesisulopez/pagina-de-ejemplo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://conquer78.github.io/boutiquesisulopez</link>
 	<description>eCommerce de Artículos para Mejorar y Cuidar su Hogar</description>
 	<lastBuildDate>Wed, 16 Mar 2022 15:36:02 +0000</lastBuildDate>
 	<sy:updatePeriod>

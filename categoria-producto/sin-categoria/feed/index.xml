@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Sin categoría | Boutiquesisulopez eCommerce</title>
-	<atom:link href="https://github.com/conquer78/boutiquesisulopez.git/categoria-producto/sin-categoria/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/conquer78/boutiquesisulopez.git</link>
+	<atom:link href="https://conquer78.github.io/boutiquesisulopez/categoria-producto/sin-categoria/feed/" rel="self" type="application/rss+xml" />
+	<link>https://conquer78.github.io/boutiquesisulopez</link>
 	<description>eCommerce de Artículos para Mejorar y Cuidar su Hogar</description>
 	<lastBuildDate>Sat, 19 Feb 2022 14:43:36 +0000</lastBuildDate>
 	<language>es-CL</language>
@@ -24,12 +24,12 @@
 	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>Funda de Sofa de 3 cuerpos</title>
-		<link>https://github.com/conquer78/boutiquesisulopez.git/producto/funda-de-sofa-de-3-cuerpos/</link>
-					<comments>https://github.com/conquer78/boutiquesisulopez.git/producto/funda-de-sofa-de-3-cuerpos/#respond</comments>
+		<link>https://conquer78.github.io/boutiquesisulopez/producto/funda-de-sofa-de-3-cuerpos/</link>
+					<comments>https://conquer78.github.io/boutiquesisulopez/producto/funda-de-sofa-de-3-cuerpos/#respond</comments>
 		
 		<dc:creator><![CDATA[Boutiquesisulopez]]></dc:creator>
 		<pubDate>Sat, 19 Feb 2022 00:56:07 +0000</pubDate>
-				<guid isPermaLink="false">https://github.com/conquer78/boutiquesisulopez.git/?post_type=product&#038;p=40</guid>
+				<guid isPermaLink="false">https://conquer78.github.io/boutiquesisulopez/?post_type=product&#038;p=40</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[<div class="et_pb_section et_pb_section_0 et_section_regular" >
@@ -47,7 +47,7 @@
 				
 				
 				<div class="et_pb_module_inner">
-					<nav class="woocommerce-breadcrumb"><a href="https://github.com/conquer78/boutiquesisulopez.git">Home</a>  /  Sin categoría</nav>
+					<nav class="woocommerce-breadcrumb"><a href="https://conquer78.github.io/boutiquesisulopez">Home</a>  /  Sin categoría</nav>
 				</div>
 			</div>
 			</div>
@@ -67,7 +67,7 @@
 	<span class="onsale">¡Oferta!</span>
 	<div class="woocommerce-product-gallery woocommerce-product-gallery--without-images woocommerce-product-gallery--columns-4 images" data-columns="4" style="opacity: 0; transition: opacity .25s ease-in-out;">
 	<figure class="woocommerce-product-gallery__wrapper">
-		<div class="woocommerce-product-gallery__image--placeholder"><img src="https://github.com/conquer78/boutiquesisulopez.git/wp-content/uploads/woocommerce-placeholder-600x600.png" alt="Esperando la imagen de producto" class="wp-post-image" /></div>	</figure>
+		<div class="woocommerce-product-gallery__image--placeholder"><img src="https://conquer78.github.io/boutiquesisulopez/wp-content/uploads/woocommerce-placeholder-600x600.png" alt="Esperando la imagen de producto" class="wp-post-image" /></div>	</figure>
 </div>
 
 				</div>
@@ -101,13 +101,13 @@
 				<div class="et_pb_module_inner">
 					
 	
-	<form class="cart" action="https://github.com/conquer78/boutiquesisulopez.git/producto/funda-de-sofa-de-3-cuerpos/" method="post" enctype='multipart/form-data'>
+	<form class="cart" action="https://conquer78.github.io/boutiquesisulopez/producto/funda-de-sofa-de-3-cuerpos/" method="post" enctype='multipart/form-data'>
 		
 			<div class="quantity">
-				<label class="screen-reader-text" for="quantity_623214cd0536e">Funda de Sofa de 3 cuerpos cantidad</label>
+				<label class="screen-reader-text" for="quantity_62326186e23b2">Funda de Sofa de 3 cuerpos cantidad</label>
 		<input
 			type="number"
-			id="quantity_623214cd0536e"
+			id="quantity_62326186e23b2"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -139,7 +139,7 @@
 
 	
 	
-	<span class="posted_in">Categoría: <a href="https://github.com/conquer78/boutiquesisulopez.git/categoria-producto/sin-categoria/" rel="tag">Sin categoría</a></span>
+	<span class="posted_in">Categoría: <a href="https://conquer78.github.io/boutiquesisulopez/categoria-producto/sin-categoria/" rel="tag">Sin categoría</a></span>
 	
 	
 </div>
@@ -181,7 +181,7 @@
 			</div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/conquer78/boutiquesisulopez.git/producto/funda-de-sofa-de-3-cuerpos/feed/</wfw:commentRss>
+					<wfw:commentRss>https://conquer78.github.io/boutiquesisulopez/producto/funda-de-sofa-de-3-cuerpos/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
