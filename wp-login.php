@@ -106,7 +106,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/boutiquesisulopez\/wp-admin\/admin-ajax.
 <script type="text/javascript" src="https://conquer78.github.io/boutiquesisulopez/wp-includes/js/wp-util.min.js?ver=5.9.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"d76e0b5c08"};
+var userProfileL10n = {"user_id":"0","nonce":"0f44e483ef"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
