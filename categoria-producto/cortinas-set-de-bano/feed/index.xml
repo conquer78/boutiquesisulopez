@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Baño | Boutiquesisulopez eCommerce</title>
+	<atom:link href="https://conquer78.github.io/boutiquesisulopez/categoria-producto/cortinas-set-de-bano/feed/" rel="self" type="application/rss+xml" />
+	<link>https://conquer78.github.io/boutiquesisulopez</link>
+	<description>eCommerce de Artículos para Mejorar y Cuidar su Hogar</description>
+	<lastBuildDate>Thu, 24 Mar 2022 13:31:22 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>Set Bajada de Baño 3 Piezas</title>
+		<link>https://conquer78.github.io/boutiquesisulopez/producto/set-de-bano/</link>
+					<comments>https://conquer78.github.io/boutiquesisulopez/producto/set-de-bano/#respond</comments>
+		
+		<dc:creator><![CDATA[Boutiquesisulopez]]></dc:creator>
+		<pubDate>Tue, 22 Mar 2022 14:10:43 +0000</pubDate>
+				<guid isPermaLink="false">https://conquer78.github.io/boutiquesisulopez/?post_type=product&#038;p=698</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://conquer78.github.io/boutiquesisulopez/producto/set-de-bano/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cortina de Baño 180&#215;180 cm</title>
+		<link>https://conquer78.github.io/boutiquesisulopez/producto/cortina-de-bano/</link>
+					<comments>https://conquer78.github.io/boutiquesisulopez/producto/cortina-de-bano/#respond</comments>
+		
+		<dc:creator><![CDATA[Boutiquesisulopez]]></dc:creator>
+		<pubDate>Tue, 22 Mar 2022 14:07:38 +0000</pubDate>
+				<guid isPermaLink="false">https://conquer78.github.io/boutiquesisulopez/?post_type=product&#038;p=694</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://conquer78.github.io/boutiquesisulopez/producto/cortina-de-bano/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
